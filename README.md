@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg?v=2" alt="Lukie，公开主页" width="100%" />
+  <img src="assets/header.svg?v=3" alt="Lukie，公开主页" width="100%" />
 </p>
 
 公开档案。这里只列已经公开的仓库，按最近在做的排。
@@ -9,6 +9,20 @@
 </a>
 
 **[SplitLink](https://github.com/Lukie516516/splitlink)** 把一笔固定的 USDC，按事先写好的比例分给 2 到 5 个人。付款链接只用一次，回执可以公开核对。仓库里有合约、前端和可复现的 CI。链上正式接入还在准备，目前没有真实链上交易。
+
+<p>
+  <a href="https://github.com/Lukie516516/DL"><img src="assets/card-dl.svg?v=3" alt="DL：Deal、DAO 和跨链合约" width="32%" /></a>
+  &nbsp;
+  <a href="https://github.com/Lukie516516/bsc-"><img src="assets/card-bsc.svg?v=3" alt="bsc-：BSC 盲盒合约和 Go 后端" width="32%" /></a>
+  &nbsp;
+  <a href="https://github.com/Lukie516516/rfq-mm"><img src="assets/card-rfq.svg?v=3" alt="rfq-mm：BNB/USDT 的 RFQ 做市" width="32%" /></a>
+</p>
+
+**[DL](https://github.com/Lukie516516/DL)** 是 Solidity 合约仓库，里面有 Deal、DAO 治理和跨链脚本。
+
+**[bsc-](https://github.com/Lukie516516/bsc-)** 是 BSC 盲盒：`contracts/` 里是合约，`server_requesteth/` 里是 Go 后端。
+
+**[rfq-mm](https://github.com/Lukie516516/rfq-mm)** 是 BNB/USDT 的 RFQ 做市。阶段 1 在本地模拟，阶段 2 对冲到 Binance。
 
 <p>
   <a href="https://github.com/Lukie516516/fruit"><img src="assets/card-fruit.svg?v=2" alt="婷婷水果店：商品、购物车、订单和店铺后台" width="49%" /></a>
