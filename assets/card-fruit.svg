@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="240" viewBox="0 0 540 240" role="img" aria-label="fruit shop">
+  <rect width="540" height="240" rx="22" fill="#f6f1e7" stroke="#e4d9c8"/>
+  <rect x="28" y="28" width="46" height="46" rx="14" fill="#1b4332"/>
+  <circle cx="51" cy="51" r="8" fill="#f6f1e7"/>
+  <text x="28" y="114" fill="#1b4332" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3">WECHAT</text>
+  <text x="28" y="158" fill="#1c1916" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="34">婷婷水果店</text>
+  <text x="28" y="196" fill="#5c564e" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Helvetica, sans-serif" font-size="16">商品、购物车、订单、后台</text>
+</svg>
