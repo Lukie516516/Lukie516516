@@ -1,10 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="540" height="240" viewBox="0 0 540 240" role="img" aria-label="notes">
-  <rect width="540" height="240" rx="22" fill="#fff8f2" stroke="#efd0b0" stroke-width="1.5"/>
-  <rect x="10" y="10" width="520" height="220" rx="16" fill="none" stroke="#f6e2cc"/>
-  <rect x="32" y="32" width="36" height="44" rx="4" fill="#8d2f2a"/>
-  <rect x="40" y="44" width="20" height="2" fill="#ffe7c7"/>
-  <rect x="40" y="52" width="14" height="2" fill="#ffe7c7"/>
-  <text x="28" y="118" fill="#8d2f2a" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3">HEXO  2023</text>
-  <text x="28" y="164" fill="#3a241c" font-family="Georgia, 'Iowan Old Style', Palatino, serif" font-size="40">Lukie.</text>
-  <text x="28" y="198" fill="#6d564a" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Helvetica, sans-serif" font-size="16">个人页面</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="268" viewBox="0 0 540 268" role="img" aria-label="card-notes.svg">
+  <rect width="540" height="268" rx="22" fill="#fff8f2" stroke="#efd0b0" stroke-width="1.5"/>
+  <rect x="10" y="10" width="520" height="248" rx="16" fill="none" stroke="#f6e2cc"/>
+  <rect x="0" y="28" width="7" height="212" fill="#c4513a"/>
+  <rect x="28" y="28" width="34" height="40" rx="4" fill="#8d2f2a"/>
+  <rect x="36" y="40" width="18" height="2" fill="#ffe7c7"/>
+  <rect x="36" y="48" width="12" height="2" fill="#ffe7c7"/>
+  <text x="76" y="56" fill="#8d2f2a" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3">HEXO  2023</text>
+  <text x="28" y="124" fill="#3a241c" font-family="Georgia, 'Iowan Old Style', Palatino, serif" font-size="42">Lukie.</text>
+  <text x="28" y="166" fill="#6d564a" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="16">2023 年搭的个人页</text>
+  <text x="28" y="200" fill="#8a7368" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="15">源码在 Lukie516516.github.io</text>
+  <rect x="28" y="218" width="72" height="28" rx="14" fill="#fde6d4"/>
+  <text x="64" y="237" text-anchor="middle" fill="#a33b32" font-family="Helvetica, Arial, sans-serif" font-size="13">Hexo</text>
+  <text x="498" y="240" text-anchor="middle" fill="#c4513a" font-family="Georgia, 'Iowan Old Style', Palatino, serif" font-size="22">&#8594;</text>
 </svg>

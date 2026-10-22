@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="108" viewBox="0 0 1100 108" role="img" aria-label="label-forks.svg">
+  <rect width="1100" height="108" rx="22" fill="#fff8f2" stroke="#efd0b0" stroke-width="1.5"/>
+  <rect x="10" y="10" width="1080" height="88" rx="16" fill="none" stroke="#f6e2cc"/>
+  <rect x="0" y="28" width="7" height="52" fill="#c4513a"/>
+  <text x="44" y="66" fill="#3a241c" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="34">参与过</text>
+  <text x="176" y="64" fill="#6d564a" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="18">这些是 fork，不是从零写的项目。</text>
+  <polygon points="1028,40 1032,50 1042,54 1032,58 1028,68 1024,58 1014,54 1024,50" fill="#c4513a"/>
+</svg>

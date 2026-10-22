@@ -1,10 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="540" height="240" viewBox="0 0 540 240" role="img" aria-label="fruit shop">
-  <rect width="540" height="240" rx="22" fill="#fff8f2" stroke="#efd0b0" stroke-width="1.5"/>
-  <rect x="10" y="10" width="520" height="220" rx="16" fill="none" stroke="#f6e2cc"/>
-  <circle cx="54" cy="54" r="20" fill="#e07a3d"/>
-  <circle cx="48" cy="48" r="6" fill="#ffd7a8" opacity="0.85"/>
-  <path d="M54 32 C58 24 66 26 64 34" fill="none" stroke="#5c6b45" stroke-width="2"/>
-  <text x="28" y="118" fill="#c4513a" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3">WECHAT</text>
-  <text x="28" y="162" fill="#3a241c" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, sans-serif" font-size="34">婷婷水果店</text>
-  <text x="28" y="198" fill="#6d564a" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Helvetica, sans-serif" font-size="16">商品、购物车、订单、后台</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="268" viewBox="0 0 540 268" role="img" aria-label="card-fruit.svg">
+  <rect width="540" height="268" rx="22" fill="#fff8f2" stroke="#efd0b0" stroke-width="1.5"/>
+  <rect x="10" y="10" width="520" height="248" rx="16" fill="none" stroke="#f6e2cc"/>
+  <rect x="0" y="28" width="7" height="212" fill="#c4513a"/>
+  <circle cx="52" cy="52" r="18" fill="#e07a3d"/>
+  <circle cx="46" cy="46" r="5" fill="#ffd7a8" opacity="0.85"/>
+  <path d="M52 32 C56 24 64 26 62 34" fill="none" stroke="#5c6b45" stroke-width="2"/>
+  <text x="84" y="58" fill="#c4513a" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3">WECHAT</text>
+  <text x="28" y="122" fill="#3a241c" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="36">婷婷水果店</text>
+  <text x="28" y="164" fill="#6d564a" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="16">商品、购物车、订单、支付</text>
+  <text x="28" y="198" fill="#8a7368" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="15">店铺后台也在这个小程序里。</text>
+  <rect x="28" y="218" width="88" height="28" rx="14" fill="#fde6d4"/>
+  <text x="72" y="237" text-anchor="middle" fill="#a33b32" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="13">小程序</text>
+  <text x="498" y="240" text-anchor="middle" fill="#c4513a" font-family="Georgia, 'Iowan Old Style', Palatino, serif" font-size="22">&#8594;</text>
 </svg>

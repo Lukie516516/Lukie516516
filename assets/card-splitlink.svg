@@ -1,17 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="214" viewBox="0 0 1100 214" role="img" aria-label="SplitLink">
-  <rect width="1100" height="214" rx="22" fill="#fff8f2" stroke="#efd0b0" stroke-width="1.5"/>
-  <rect x="10" y="10" width="1080" height="194" rx="16" fill="none" stroke="#f6e2cc"/>
-  <rect x="0" y="36" width="7" height="142" fill="#c4513a"/>
-  <text x="44" y="62" fill="#c4513a" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3.2">NOW</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="248" viewBox="0 0 1100 248" role="img" aria-label="card-splitlink.svg">
+  <rect width="1100" height="248" rx="22" fill="#fff8f2" stroke="#efd0b0" stroke-width="1.5"/>
+  <rect x="10" y="10" width="1080" height="228" rx="16" fill="none" stroke="#f6e2cc"/>
+  <rect x="0" y="28" width="7" height="192" fill="#c4513a"/>
+  <text x="44" y="58" fill="#c4513a" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3.2">NOW</text>
   <text x="44" y="112" fill="#3a241c" font-family="Georgia, 'Iowan Old Style', Palatino, serif" font-size="46">SplitLink</text>
-  <text x="44" y="154" fill="#6d564a" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="18">一笔 USDC，按写好的比例分给 2 到 5 个人</text>
+  <text x="44" y="158" fill="#6d564a" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="18">一笔 USDC，按写好的比例分给 2 到 5 个人</text>
+  <text x="44" y="194" fill="#8a7368" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="16">付款链接只用一次，回执可以核对。链上正式接入还在准备。</text>
   <g font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#a33b32">
-    <rect x="700" y="126" width="96" height="28" rx="14" fill="#fde6d4"/>
-    <text x="748" y="145" text-anchor="middle">TypeScript</text>
-    <rect x="806" y="126" width="78" height="28" rx="14" fill="#fde6d4"/>
-    <text x="845" y="145" text-anchor="middle">Solidity</text>
-    <rect x="894" y="126" width="42" height="28" rx="14" fill="#fde6d4"/>
-    <text x="915" y="145" text-anchor="middle">CI</text>
+    <rect x="742" y="86" width="96" height="28" rx="14" fill="#fde6d4"/>
+    <text x="790" y="105" text-anchor="middle">TypeScript</text>
+    <rect x="848" y="86" width="78" height="28" rx="14" fill="#fde6d4"/>
+    <text x="887" y="105" text-anchor="middle">Solidity</text>
+    <rect x="936" y="86" width="42" height="28" rx="14" fill="#fde6d4"/>
+    <text x="957" y="105" text-anchor="middle">CI</text>
   </g>
-  <text x="1014" y="118" fill="#c4513a" font-family="Georgia, Palatino, serif" font-size="32">&#8594;</text>
+  <text x="1024" y="108" fill="#c4513a" font-family="Georgia, 'Iowan Old Style', Palatino, serif" font-size="32">&#8594;</text>
 </svg>

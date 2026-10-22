@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="220" viewBox="0 0 360 220" role="img" aria-label="card-cuit.svg">
+  <rect width="360" height="220" rx="22" fill="#fff8f2" stroke="#efd0b0" stroke-width="1.5"/>
+  <rect x="10" y="10" width="340" height="200" rx="16" fill="none" stroke="#f6e2cc"/>
+  <rect x="0" y="28" width="7" height="164" fill="#c4513a"/>
+  <text x="28" y="52" fill="#c4513a" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3">FORK</text>
+  <text x="28" y="104" fill="#3a241c" font-family="Georgia, 'Iowan Old Style', Palatino, serif" font-size="30">cuit-guide</text>
+  <text x="28" y="146" fill="#6d564a" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="16">CUIT 指南</text>
+  <text x="28" y="180" fill="#8a7368" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="15">站点 guide.cuit.dev</text>
+  <text x="318" y="186" text-anchor="middle" fill="#c4513a" font-family="Georgia, 'Iowan Old Style', Palatino, serif" font-size="22">&#8594;</text>
+</svg>
